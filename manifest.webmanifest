@@ -1,24 +1,37 @@
 {
+  "id": "/boxercise-class-planner/",
   "name": "Boxercise Class Planner",
   "short_name": "Boxercise",
-  "description": "Plan non-contact boxercise classes, circuits and partner sessions.",
-  "start_url": "./",
-  "scope": "./",
+  "description": "Plan non-contact fitness classes, circuits and partner sessions.",
+  "start_url": "/boxercise-class-planner/?source=installed",
+  "scope": "/boxercise-class-planner/",
   "display": "standalone",
-  "background_color": "#0b1220",
-  "theme_color": "#101827",
+  "background_color": "#101010",
+  "theme_color": "#101010",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "/boxercise-class-planner/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "./icon-512.png",
+      "src": "/boxercise-class-planner/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/boxercise-class-planner/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/boxercise-class-planner/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
