@@ -1,17 +1,16 @@
-# Boxercise Class Planner
+# Boxercise Class Planner — Version 2
 
-A free, static, local-first browser app for planning non-contact boxercise fitness classes.
+Open `index.html` locally or upload it to the root of a GitHub Pages repository.
 
-## Publish with GitHub Pages
-1. Create a new GitHub repository (for example `boxercise-class-planner`).
-2. Upload `index.html` to the repository root.
-3. In **Settings → Pages**, choose **Deploy from a branch**, branch **main**, folder **/(root)**, then Save.
-4. Open the GitHub Pages URL once published.
+## Updates
+- Redesigned mobile-friendly dashboard and clearer builder.
+- 120 original exercises plus 130 expanded entries, each with written technique guidance.
+- 135 fitness-oriented combinations.
+- Choose Everyone together, Circuit stations, or Mixed class.
+- Select 2–20 circuit stations; generator requires enough different matching exercises.
+- Exercise descriptions appear in the library and inside generated plans.
+- Removed misleading generic video searches. Custom exercises can store instructor-reviewed demonstration URLs from supported sites.
+- Saved plans and custom entries remain compatible with the prior localStorage format (`boxercise-planner-v1`).
 
-No backend or API keys are needed. Class plans, custom exercises and combinations are saved in the browser's local storage; use **Export backup** to transfer or preserve data.
-
-## Notes
-- Exercise demo links open search results, not guaranteed matching technique videos.
-- No automatic internet importing or AI service is included in this offline-friendly version.
-- Combinations are fitness-oriented movement cues, not fighting instruction.
-- Printing uses the browser's Print / Save as PDF feature.
+## Important
+Existing browser data is stored per site and browser. Export a backup before changing hosting domains or clearing browser storage. This app is for supervised non-contact fitness, not sparring.
