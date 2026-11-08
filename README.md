@@ -1,7 +1,5 @@
-Boxercise Class Planner v5
+Boxercise Class Planner v6 — Live Class Mode
 
-Upload ALL files from this folder to the root of the existing GitHub Pages repository, replacing old files. Keep the same website address to retain local saved classes. Before updating, use the app backup/export feature.
+Upload ALL files in this folder to the root of your existing GitHub Pages repository. Replace older files. Export a backup of your classes first.
 
-New: visual circuit station board, rotation table, station exercise replacement, class running-order timeline, responsive layout. Existing local storage key unchanged.
-
-Note: class timing is a planning estimate; instructor should check station capacities and role rotations.
+Live mode: create or load a plan, then tap Run this class live. Start/pause, skip/previous, restart and sound controls are provided. Keep the app visible during a class; background operation and sound vary by browser.
