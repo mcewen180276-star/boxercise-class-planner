@@ -14,3 +14,8 @@ Open `index.html` locally or upload it to the root of a GitHub Pages repository.
 
 ## Important
 Existing browser data is stored per site and browser. Export a backup before changing hosting domains or clearing browser storage. This app is for supervised non-contact fitness, not sparring.
+
+## Version 3 — App icon and installation
+Upload **all** files in this folder to the root of your existing GitHub Pages repository (not just index.html). The manifest, icons and service worker are needed for installable app behavior. Keep the same repository URL to preserve browser-saved classes.
+
+On Android Chrome, open the published site, use the browser menu and choose **Install app** or **Add to Home screen**. The app icon should appear on your home screen. Installation support varies by browser and device. Service worker supports basic offline loading after the first successful online visit.
